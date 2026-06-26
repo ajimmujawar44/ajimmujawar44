@@ -1,0 +1,33 @@
+name: Generate Pacman Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+# 1. CRITICAL: Grants the runner permission to write and update the output branch
+permissions:
+  contents: write
+  pages: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      # 2. CRITICAL: Added an output directory so it does not conflict with your code
+      - name: Generate Pacman
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ajimmujawar44-sudo
+          output_dir: dist
+
+      # 3. CRITICAL: Only deploys the safe, isolated output folder to your branch
+      - name: Push Pacman Graph
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
