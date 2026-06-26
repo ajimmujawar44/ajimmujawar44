@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Ajim%20Mujavar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20Machine%20Learning%20%7C%20AI&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Ajim%20Mujawar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20Machine%20Learning%20%7C%20AI&descAlignY=58"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00CFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Machine+Learning;Building+Projects+Every+Week;Always+Learning+New+Things"/>
 
@@ -11,7 +11,7 @@
 # 👨‍💻 About Me
 
 ```python
-class AjimMujavar():
+class AjimMujawar():
 
     def __init__(self):
         self.role = "Aspiring Data Scientist"
@@ -28,7 +28,7 @@ class AjimMujavar():
             "MLOps"
         ]
 
-me = AjimMujavar()
+me = AjimMujawar()
 ```
 
 ---
@@ -96,7 +96,30 @@ me = AjimMujavar()
 # 🐍 Snake Eating Contributions
 
 > Create this using a GitHub Action.
+.github/workflows/snake.yml
+> name: Generate Snake
 
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: YOUR_USERNAME
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
@@ -108,6 +131,8 @@ me = AjimMujavar()
 # 👾 Pac-Man Contribution Game
 
 > Create this using a GitHub Action.
+> .github/workflows/pacman.yml
+> <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
 
 <p align="center">
 
@@ -175,5 +200,6 @@ me = AjimMujavar()
 ## ⭐ Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer"/>
+"Passionate about solving real-world problems through data, AI, and continuous innovation."
 
 </div>
