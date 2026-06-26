@@ -77,7 +77,7 @@ me = AjimMujawar()
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajimmujawar44-sudo&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -87,7 +87,7 @@ me = AjimMujawar()
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ajimmujawar44-sudo&theme=tokyonight&row=2&column=4"/>
 
 </p>
 
@@ -122,7 +122,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/ajimmujawar44-sudo/ajimmujawar44-sudo/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
