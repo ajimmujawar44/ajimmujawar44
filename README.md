@@ -1,101 +1,73 @@
-<h1 align="center">Hi 👋, I'm Ajim Mujavar</h1>
+<div align="center">
 
-<h3 align="center">
-Aspiring Data Scientist | Python | SQL | Machine Learning | AI Enthusiast
-</h3>
+# 👋 Hi, I'm Ajim Mujavar
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Data+Scientist;Python+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Python+Developer;AI+Explorer;Always+Learning+New+Things!" />
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="800"/>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+- 🎓 Aspiring Data Scientist
+- 💻 Python | SQL | Machine Learning
+- 📊 Passionate about Data Analytics
+- 🤖 Learning Deep Learning & Generative AI
+- 🌱 Currently building Data Science Projects
+- 🎯 Goal: Become an AI Engineer
+
+---
+
+# 🛠 Tech Stack
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,github,vscode"/>
 </p>
 
-<hr>
-
-<h2>👨‍💻 About Me</h2>
-
-<ul>
-  <li>🎓 Aspiring Data Scientist</li>
-  <li>🐍 Learning Python, SQL, Pandas, NumPy, Machine Learning</li>
-  <li>📊 Interested in Data Analytics & AI</li>
-  <li>🌱 Currently learning Deep Learning & Generative AI</li>
-  <li>💡 Love solving real-world data problems</li>
-  <li>🎯 Goal: Become an AI/Data Science Engineer</li>
-</ul>
-
-<hr>
-
-<h2>🛠️ Skills</h2>
-
-<table>
-<tr>
-<td>
-
-<h3>Programming</h3>
-
-- Python
-- SQL
-- HTML
-- CSS
-
-</td>
-
-<td>
-
-<h3>Data Science</h3>
-
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-Learn
-
-</td>
-
-<td>
-
-<h3>Database</h3>
-
-- MySQL
-- SQL Server
-
-</td>
-</tr>
-</table>
-
-<hr>
-
-<h2>🚀 Tools & Technologies</h2>
+### Libraries
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy">
+
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly">
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn">
 
 </p>
 
-<hr>
+---
 
-<h2>📈 GitHub Stats</h2>
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
-<hr>
+---
 
-<h2>🔥 GitHub Streak</h2>
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
 
-<hr>
+---
 
-<h2>📊 Activity Graph</h2>
+# 📊 Activity Graph
 
 <p align="center">
 
@@ -103,48 +75,76 @@ Aspiring Data Scientist | Python | SQL | Machine Learning | AI Enthusiast
 
 </p>
 
-<hr>
+---
 
-<h2>🏆 GitHub Trophies</h2>
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&margin-w=15&margin-h=15"/>
 
 </p>
 
-<hr>
+---
 
-<h2>📫 Connect With Me</h2>
+# 🐍 Snake Eating My Contributions
+
+> Create the following GitHub Action in your repository to generate the snake animation.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🟡 Pac-Man Contribution Game
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
 
 <p>
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
 </a>
 
 </p>
 
-<hr>
+---
 
-<h2>💻 Visitor Count</h2>
+# 👀 Visitors
 
 <p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
 
 </p>
 
-<hr>
+---
 
-<h2 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h2>
+<div align="center">
+
+## ⭐ Thanks for Visiting ⭐
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
+
+### 💙 Happy Coding!
+
+</div>
