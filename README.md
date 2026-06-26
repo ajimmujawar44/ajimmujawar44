@@ -6,52 +6,47 @@
 </div>
 
 ---
-<div align="center">
-<h2>👨‍💻 About Me</h2>
-</div>
-
 <table>
 <tr>
 
-<td width="60%" valign="top">
+<td width="60%">
 
-👋 Hi, I'm <b>Ajim Mujawar</b>
+<h2>👨‍💻 About Me</h2>
 
-<br><br>
-
-🎓 Aspiring <b>Data Scientist</b> passionate about transforming data into meaningful insights and building intelligent AI solutions.
+👋 Hi, I'm <b>Ajim Mujavar</b>
 
 <br><br>
 
-💡 I enjoy solving real-world problems using <b>Python</b>, <b>Machine Learning</b>, and <b>Data Analytics</b>.
-
-<br><br>
-
-🌱 <b>Currently Learning</b>
-
-* 🤖 Large Language Models (LLMs)
-* 🧠 Generative AI
-* 🔗 LangChain & AI Agents
-* 📊 Deep Learning
-* ☁️ MLOps & Cloud Technologies
+🎓 Aspiring <b>Data Scientist & AI Engineer</b>
 
 <br>
 
-🎯 <b>Goal</b>
+💻 Passionate about Machine Learning, Generative AI, LLMs, and Data Analytics.
 
-Become an AI Engineer building scalable, intelligent, and impactful applications.
+<br>
 
-<br><br>
+📈 I enjoy transforming raw data into meaningful insights and intelligent solutions.
 
-⚡ <b>Fun Fact</b>
+<br>
 
-<i>"Every dataset has a story waiting to be discovered."</i>
+🌱 Currently Learning
+
+- 🤖 LLMs & AI Agents
+- 🧠 Deep Learning
+- 🔗 LangChain & RAG
+- ☁️ Azure & MLOps
+
+<br>
+
+🎯 Goal: Build AI-powered applications that solve real-world problems.
 
 </td>
 
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+<img
+width="320"
+src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
 </td>
 
