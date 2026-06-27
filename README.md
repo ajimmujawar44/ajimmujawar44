@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Ajim%20Mujawar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20Machine%20Learning%20%7C%20AI&descAlignY=58"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00CFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Machine+Learning;Building+Projects+Every+Week;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00CFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Aspiring+Data+Scientist;Hi+👋+,+ I'm+ Ajim+ Mujawar;Python+%7C+SQL+%7C+Machine+Learning;Building+Projects+Every+Week;Always+Learning+New+Things"/>
 
 </div>
 
