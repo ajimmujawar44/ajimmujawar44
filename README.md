@@ -187,15 +187,15 @@ src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
 <p align="center">
 
-<a href="https:/ajimmujawar44-sudo/github.com/">
+<a href="https://github.com/ajimmujawar44-sudo">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://https://www.kaggle.com/azimmujawar" target="_blank">
+<a href="https://www.kaggle.com/azimmujawar" target="_blank">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
 
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/ajim-mujawar-data-scientist">
+<a href="https://www.linkedin.com/in/ajim-mujawar-data-scientist/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
