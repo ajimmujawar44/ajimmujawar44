@@ -120,7 +120,7 @@ src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/ajimmujawar44-sudo/ajimmujawar44/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/ajimmujawar44/ajimmujawar44/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
