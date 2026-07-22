@@ -106,12 +106,12 @@ src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ajimmujawar44&theme=tokyonight&row=1&column=6"/>
-
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=ajimmujawar44&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"
+    alt="GitHub Trophies" />
 </p>
 
 ---
@@ -129,18 +129,22 @@ src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 ## 👾 Pac-Man Contribution Game
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ajimmujawar44/ajimmujawar44/output/pacman-contribution-graph.svg">
-</p>
-<p align="center">
-<picture>
+  <picture>
+    <!-- Dark Theme -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ajimmujawar44/ajimmujawar44/output/pacman-contribution-graph-dark.svg">
 
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/ajimmujawar44/ajimmujawar44/output/pacman-contribution-graph-dark.svg">
+    <!-- Light Theme -->
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ajimmujawar44/ajimmujawar44/output/pacman-contribution-graph.svg">
 
-<img src="https://raw.githubusercontent.com/ajimmujawar44/ajimmujawar44/output/pacman-contribution-graph.svg">
-
-</picture>
+    <!-- Default -->
+    <img
+      alt="Pac-Man Contribution Graph"
+      src="https://raw.githubusercontent.com/ajimmujawar44/ajimmujawar44/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
 
 ---
