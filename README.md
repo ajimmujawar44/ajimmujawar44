@@ -13,7 +13,7 @@
 
 <h2>👨‍💻 About Me</h2>
 
-👋 Hi, I'm <b>Ajim Mujavar</b>
+👋 Hi, I'm <b>Ajim Mujawar</b>
 
 <br><br>
 
@@ -78,9 +78,9 @@ src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ajimmujawar44-sudo&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ajimmujawar44&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajimmujawar44-sudo&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajimmujawar44&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -90,7 +90,7 @@ src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=ajimmujawar44-sudo&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ajimmujawar44&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -100,7 +100,7 @@ src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajimmujawar44-sudo&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajimmujawar44&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -110,7 +110,7 @@ src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ajimmujawar44-sudo&theme=tokyonight&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ajimmujawar44&theme=tokyonight&row=1&column=6"/>
 
 </p>
 
@@ -120,18 +120,27 @@ src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/ajimmujawar44-sudo/ajimmujawar44-sudo/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/ajimmujawar44-sudo/ajimmujawar44/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
 ---
 
-# 👾 Pac-Man Contribution Game
+## 👾 Pac-Man Contribution Game
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/ajimmujawar44/ajimmujawar44/output/pacman-contribution-graph.svg">
+</p>
+<p align="center">
+<picture>
 
-<img src="https://raw.githubusercontent.com/ajimmujawar44-sudo/ajimmujawar44-sudo/output/pacman-contribution-graph.svg"/>
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/ajimmujawar44/ajimmujawar44/output/pacman-contribution-graph-dark.svg">
 
+<img src="https://raw.githubusercontent.com/ajimmujawar44/ajimmujawar44/output/pacman-contribution-graph.svg">
+
+</picture>
 </p>
 
 ---
@@ -187,7 +196,7 @@ src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
 <p align="center">
 
-<a href="https://github.com/ajimmujawar44-sudo">
+<a href="https://github.com/ajimmujawar44">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 <a href="https://www.kaggle.com/azimmujawar" target="_blank">
@@ -211,7 +220,7 @@ src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ajimmujawar44-sudo&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=ajimmujawar44&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
 </p>
 
