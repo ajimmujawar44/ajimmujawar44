@@ -125,33 +125,6 @@ src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 </p>
 
 
-<!--
-
-## 👾 Pac-Man Contribution Game
-
-<p align="center">
-  <picture>
-    <!-- Dark Theme -->
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/ajimmujawar44/ajimmujawar44/output/pacman-contribution-graph-dark.svg">
-
-    <!-- Light Theme -->
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/ajimmujawar44/ajimmujawar44/output/pacman-contribution-graph.svg">
-
-    <!-- Default -->
-    <img
-      alt="Pac-Man Contribution Graph"
-      src="https://raw.githubusercontent.com/ajimmujawar44/ajimmujawar44/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
-
-
--->
-
-
 # 📂 Featured Projects
 
 | Project | Description |
