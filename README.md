@@ -126,6 +126,7 @@ src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
 
 <!--
+
 ## 👾 Pac-Man Contribution Game
 
 <p align="center">
@@ -146,6 +147,8 @@ src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
       src="https://raw.githubusercontent.com/ajimmujawar44/ajimmujawar44/output/pacman-contribution-graph.svg">
   </picture>
 </p>
+
+
 -->
 
 
