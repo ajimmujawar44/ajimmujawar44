@@ -124,7 +124,7 @@ src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
 </p>
 
----
+
 
 ## 👾 Pac-Man Contribution Game
 
@@ -147,7 +147,7 @@ src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
   </picture>
 </p>
 
----
+
 
 # 📂 Featured Projects
 
