@@ -6,53 +6,51 @@
 </div>
 
 ---
+## 👨‍💻 About Me
+
 <table>
-<tr>
+  <tr>
+    <td width="60%" valign="middle">
 
-<td width="60%">
+      <h2>👋 Hi, I'm Ajim Mujawar</h2>
+      <h3>Data Scientist | AI Engineer</h3>
 
-<h2>👨‍💻 About Me</h2>
+      <p>
+        🧠 Passionate about building intelligent, data-driven solutions using Machine Learning, Deep Learning, and Generative AI.
+      </p>
 
-👋 Hi, I'm <b>Ajim Mujawar</b>
+      <p>
+        📊 Focused on transforming raw data into actionable insights and developing AI-powered applications that address real-world challenges.
+      </p>
 
-<br><br>
+      <h3>🌱 Currently Exploring</h3>
 
-🎓 Aspiring <b>Data Scientist & AI Engineer</b>
+      <p>
+        🤖 LLMs, Generative AI & AI Agents<br>
+        🧠 Deep Learning, NLP & Computer Vision<br>
+        🔗 LangChain, RAG & Model Context Protocol (MCP)<br>
+        ⚙️ AI Automation, Azure & MLOps
+      </p>
 
-<br>
+      <h3>🎯 My Mission</h3>
 
-💻 Passionate about Machine Learning, Generative AI, LLMs, and Data Analytics.
+      <p>
+        To engineer scalable, reliable, and impactful AI solutions that solve real-world problems and deliver meaningful business value.
+      </p>
 
-<br>
+    </td>
 
-📈 I enjoy transforming raw data into meaningful insights and intelligent solutions.
+    <td width="40%" align="center" valign="middle">
 
-<br>
+      <img
+        width="320"
+        src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
-🌱 Currently Learning
-
-- 🤖 LLMs & AI Agents
-- 🧠 Deep Learning
-- 🔗 LangChain & RAG
-- ☁️ Azure & MLOps
-
-<br>
-
-🎯 Goal: Build AI-powered applications that solve real-world problems.
-
-</td>
-
-<td width="40%" align="center">
-
-<img
-width="320"
-src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
-
-</td>
-
-</tr>
+    </td>
+  </tr>
 </table>
 
+---
 
 ---
 
