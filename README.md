@@ -124,54 +124,127 @@ src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
 </p>
 
+## 📂 Featured Projects
 
-# 📂 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 📊 Sales Dashboard | Power BI Dashboard |
-| 🤖 House Price Prediction | Machine Learning |
-| ❤️ Heart Disease Prediction | Classification |
-| 🎬 Movie Recommendation | Recommendation System |
-| 📈 Stock Price Prediction | Time Series |
+<p align="left">
+  A collection of my projects in <b>Generative AI, Machine Learning, NLP, Computer Vision, RAG, AI Agents, and Workflow Automation</b>, focused on building intelligent solutions for real-world business problems.
+</p>
 
 <table>
-<tr>
-<th>Project</th>
-<th>Description</th>
-</tr>
-
-<tr>
-<td>🏦 <b>Bank Risk Analysis</b></td>
-<td>Analyzed customer financial data to assess credit risk and support data-driven lending decisions using SQL, Python, and Machine Learning.</td>
-</tr>
-
-<tr>
-<td>👥 <b>Customer Segmentation</b></td>
-<td>Applied clustering algorithms to identify customer groups for targeted marketing and business insights.</td>
-</tr>
-
-<tr>
-<td>💹 <b>Price Analysis</b></td>
-<td>Performed exploratory data analysis and visualization to uncover pricing trends and support strategic decisions.</td>
-</tr>
-
-<tr>
-<td>🤖 <b>LLM Chatbot</b></td>
-<td>Built an AI-powered chatbot using Large Language Models, LangChain, and OpenAI for intelligent question answering.</td>
-</tr>
-
-<tr>
-<td>🛍️ <b>Product Recommendation System</b></td>
-<td>Developed a recommendation engine using collaborative filtering and machine learning to suggest personalized products.</td>
-</tr>
-
+  <thead>
+    <tr>
+      <th>🚀 Project</th>
+      <th>🛠️ Technologies</th>
+      <th>📝 Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <b>🧠 Enterprise GenAI Customer Voice Intelligence &amp; Sentiment Analytics Platform</b>
+      </td>
+      <td>Python, GenAI, LLMs, NLP, RAG, Sentiment Analysis</td>
+      <td>
+        Built a GenAI-powered platform to analyze unstructured customer feedback, identify sentiment and recurring themes, and generate actionable business insights using LLMs.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🛡️ LLM Guardrails &amp; AI Safety Framework</b>
+      </td>
+      <td>Python, FastAPI, Gemini, Pytest, LLM Security</td>
+      <td>
+        Developed API-based guardrails to detect and mitigate prompt injection, jailbreak attempts, and sensitive information leakage, with automated tests to validate security controls.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🚦 AI Traffic Enforcement &amp; Smart Challan System</b>
+      </td>
+      <td>Python, Computer Vision, OpenCV, YOLO, OCR</td>
+      <td>
+        Developed an AI-powered traffic enforcement system to detect violations from images and video streams, identify vehicles, extract license plate information, and automate violation analysis.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>📄 Enterprise PDF Document Intelligence &amp; RAG Chatbot</b>
+      </td>
+      <td>Python, LangChain, RAG, Hugging Face, ChromaDB, Groq, Gradio</td>
+      <td>
+        Built a PDF question-answering chatbot using document chunking, Hugging Face embeddings, ChromaDB vector search, and Groq LLM integration to generate context-aware, document-grounded responses.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🌐 MCP-Powered Multi-Server AI Assistant</b>
+      </td>
+      <td>Python, Model Context Protocol (MCP), Airbnb MCP, NotebookLM, Filesystem MCP</td>
+      <td>
+        Configured specialized MCP servers for accommodation search, knowledge retrieval, and filesystem operations. Designed an AI-assisted workflow for travel research, information synthesis, itinerary planning, and file generation.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>⚙️ AI Automation Workflows with n8n</b>
+      </td>
+      <td>n8n, LLMs, APIs, AI Agents, Workflow Automation</td>
+      <td>
+        Designed AI-powered automation workflows integrating LLMs, APIs, and external services to streamline multi-step tasks, process information, and coordinate automated actions.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🏦 Bank Loan Default Risk Analysis</b>
+      </td>
+      <td>Python, Pandas, NumPy, Matplotlib, Seaborn, Exploratory Data Analysis</td>
+      <td>
+        Analyzed loan and customer financial data to identify default risk factors, uncover important patterns, and generate actionable insights to support credit risk assessment and data-driven lending decisions.
+      </td>
+    </tr>
+  </tbody>
 </table>
-```
-
 
 ---
 
+<h3>🎯 Core Areas of Expertise</h3>
+
+<table>
+  <tbody>
+    <tr>
+      <td>🤖 <b>Generative AI &amp; LLMs</b></td>
+      <td>LLM Applications, RAG, Prompt Engineering, AI Safety</td>
+    </tr>
+    <tr>
+      <td>🧠 <b>Machine Learning &amp; NLP</b></td>
+      <td>Predictive Modeling, Sentiment Analysis, Classification, Clustering</td>
+    </tr>
+    <tr>
+      <td>👁️ <b>Computer Vision</b></td>
+      <td>OpenCV, YOLO, OCR, Image and Video Analysis</td>
+    </tr>
+    <tr>
+      <td>🔗 <b>AI Agents &amp; Integrations</b></td>
+      <td>MCP, Tool Integration, Multi-Server Workflows</td>
+    </tr>
+    <tr>
+      <td>⚙️ <b>AI Automation</b></td>
+      <td>n8n, API Integration, Workflow Orchestration</td>
+    </tr>
+    <tr>
+      <td>📊 <b>Data Analytics</b></td>
+      <td>Python, SQL, EDA, Data Visualization</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+<h3>💡 My Project Focus</h3>
+
+<p>
+  I build practical AI and data science solutions that combine <b>intelligent automation, data-driven insights, and LLM-powered applications</b> to address real-world business challenges.
+</p>
 # 📫 Connect With Me
 
 <p align="center">
