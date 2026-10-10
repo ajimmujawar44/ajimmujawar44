@@ -6,53 +6,38 @@
 </div>
 
 ---
+
 ## 👨‍💻 About Me
 
 <table>
   <tr>
     <td width="60%" valign="middle">
-
       <h2>👋 Hi, I'm Ajim Mujawar</h2>
       <h3>Data Scientist | AI Engineer</h3>
-
-      <p>
-        🧠 Passionate about building intelligent, data-driven solutions using Machine Learning, Deep Learning, and Generative AI.
-      </p>
-
-      <p>
-        📊 Focused on transforming raw data into actionable insights and developing AI-powered applications that address real-world challenges.
-      </p>
-
+      <p>🧠 Passionate about building intelligent, data-driven solutions using Machine Learning, Deep Learning, and Generative AI.</p>
+      <p>📊 Focused on transforming raw data into actionable insights and developing AI-powered applications that solve real-world challenges.</p>
       <h3>🌱 Currently Exploring</h3>
-
       <p>
-        🤖 LLMs, Generative AI & AI Agents<br>
-        🧠 Deep Learning, NLP & Computer Vision<br>
-        🔗 LangChain, RAG & Model Context Protocol (MCP)<br>
-        ⚙️ AI Automation, Azure & MLOps
+        🤖 LLMs, Generative AI &amp; AI Agents<br>
+        🧠 Deep Learning, NLP &amp; Computer Vision<br>
+        🔗 LangChain, RAG &amp; Model Context Protocol (MCP)<br>
+        ⚙️ AI Automation, Azure &amp; MLOps
       </p>
-
       <h3>🎯 My Mission</h3>
-
-      <p>
-        To engineer scalable, reliable, and impactful AI solutions that solve real-world problems and deliver meaningful business value.
-      </p>
-
+      <p>To engineer scalable, reliable, and impactful AI solutions that solve real-world problems and deliver meaningful business value.</p>
     </td>
-
     <td width="40%" align="center" valign="middle">
-
       <img
         width="320"
-        src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
-
+        src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"
+        alt="Animated programmer coding"
+      />
     </td>
   </tr>
 </table>
 
 ---
 
----
 
 # 🚀 Tech Stack
 
