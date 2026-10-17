@@ -77,14 +77,17 @@
 
 </p>
 
+
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajimmujawar44&theme=tokyo-night&hide_border=true"/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ajimmujawar44&theme=tokyo-night&hide_border=true&area=true"
+    alt="Contribution Activity Graph for ajimmujawar44"
+    width="100%"
+  />
 </p>
 
 ---
@@ -93,13 +96,14 @@
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/api?username=ajimmujawar44&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"
+    src="./profile/trophy.svg"
     alt="GitHub Trophies for ajimmujawar44"
     width="100%"
   />
 </p>
 
 ---
+
 
 
 # 🐍 Snake Eating Contributions
