@@ -78,16 +78,18 @@
 </p>
 
 
+
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ajimmujawar44&theme=tokyo-night&hide_border=true&area=true"
-    alt="Contribution Activity Graph for ajimmujawar44"
-    width="100%"
-  />
+  <a href="https://github.com/ajimmujawar44">
+    <img
+      src="https://img.shields.io/badge/View-My%20GitHub%20Contributions-181717?style=for-the-badge&logo=github"
+      alt="View my GitHub contributions"
+    />
+  </a>
 </p>
 
 ---
