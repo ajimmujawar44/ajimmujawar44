@@ -93,11 +93,14 @@
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=ajimmujawar44&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"
-    alt="GitHub Trophies" />
+    src="https://github-profile-trophy.vercel.app/api?username=ajimmujawar44&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"
+    alt="GitHub Trophies for ajimmujawar44"
+    width="100%"
+  />
 </p>
 
 ---
+
 
 # 🐍 Snake Eating Contributions
 
@@ -262,11 +265,10 @@
 </p>
 
 ---
-
 ## 👀 Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajimmujawar44&amp;label=Profile%20Views&amp;color=blueviolet&amp;style=for-the-badge" alt="Profile Views Counter" />
+  <img src="https://komarev.com/ghpvc/?username=ajimmujawar44&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views Counter">
 </p>
 
 ## ⭐ Thanks for visiting my profile!
