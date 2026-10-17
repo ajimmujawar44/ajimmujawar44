@@ -228,7 +228,8 @@
 <p>
   I build practical AI and data science solutions that combine <b>intelligent automation, data-driven insights, and LLM-powered applications</b> to address real-world business challenges.
 </p>
-# 📫 Connect With Me
+
+## 📫 Connect With Me
 
 <p align="center">
 
@@ -262,17 +263,11 @@
 
 ---
 
-# 👀 Visitors
+## 👀 Visitors
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ajimmujawar44&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-
+  <img src="https://komarev.com/ghpvc/?username=ajimmujawar44&amp;label=Profile%20Views&amp;color=blueviolet&amp;style=for-the-badge" alt="Profile Views Counter" />
 </p>
-
----
-
-<div align="center">
 
 ## ⭐ Thanks for visiting my profile!
 
