@@ -1,4 +1,3 @@
-
 name: Update GitHub Trophies
 
 on:
@@ -20,7 +19,7 @@ jobs:
       - name: Generate trophy SVG
         uses: soulteary/github-profile-trophy-action@v1
         with:
-          options: 'username=ajimmujawar44&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15'
+          options: "username=ajimmujawar44&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"
           path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
