@@ -271,12 +271,14 @@
 </p>
 
 ---
+
 ## 👀 Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajimmujawar44&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views Counter">
+  <img src="https://komarev.com/ghpvc/?username=ajimmujawar44&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views Counter" />
 </p>
 
+---
 ## ⭐ Thanks for visiting my profile!
 
 <div align="center">
