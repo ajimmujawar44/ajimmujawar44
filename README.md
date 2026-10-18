@@ -97,15 +97,10 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img
-    src="./profile/trophy.svg"
-    alt="GitHub Trophies for ajimmujawar44"
-    width="100%"
-  />
+  <img src="./profile/trophy.svg" alt="GitHub Trophies" width="100%" />
 </p>
 
 ---
-
 
 
 # 🐍 Snake Eating Contributions
