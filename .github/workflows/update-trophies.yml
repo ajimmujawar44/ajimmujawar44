@@ -21,7 +21,7 @@ jobs:
         with:
           options: "username=ajimmujawar44&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"
           path: profile/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
 
       - name: Commit trophy SVG
         run: |
