@@ -100,6 +100,19 @@
   <img src="./profile/trophy.svg" alt="GitHub Trophies" width="100%" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/ajimmujawar44/genai-chatbot-projects/pulls?q=is%3Apr+is%3Amerged">
+    <img src="https://img.shields.io/github/issues-pr-closed/ajimmujawar44/genai-chatbot-projects?label=Merged%20pull%20requests&color=8957e5" alt="Merged pull requests" />
+  </a>
+  <a href="https://github.com/ajimmujawar44/genai-chatbot-projects/issues">
+    <img src="https://img.shields.io/github/issues/ajimmujawar44/genai-chatbot-projects?label=Open%20chatbot%20issues&color=dd1f2d" alt="Open chatbot issues" />
+  </a>
+</p>
+
+## ⚠️ Known Chatbot Issue
+
+The Gemini-powered chatbot may return outdated answers to current-news and recent-information questions. Its deployed Gemini model version needs verification, even though Google Search grounding is configured in the backend. [Track the report and investigation](https://github.com/ajimmujawar44/genai-chatbot-projects/issues/3).
+
 ---
 
 
