@@ -109,8 +109,9 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=ajimmujawar44&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak Stats" />
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=ajimmujawar44&theme=tokyonight&hide_border=true"
+    alt="Ajim's GitHub Streak"
+  />
 </p>
 
 ---
