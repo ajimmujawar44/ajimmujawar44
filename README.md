@@ -95,11 +95,12 @@
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ajimmujawar44&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajimmujawar44&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170"
+    src="https://github-stats-extended.vercel.app/api?username=ajimmujawar44&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats" />
+  <img height="170"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ajimmujawar44&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages" />
 </p>
 
 ---
@@ -107,12 +108,10 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ajimmujawar44&theme=tokyonight&hide_border=true"/>
-
+  <img
+    src="https://streak-stats.demolab.com?user=ajimmujawar44&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Stats" />
 </p>
-
-
 
 ---
 
