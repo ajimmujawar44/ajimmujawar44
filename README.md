@@ -1,24 +1,46 @@
 <div align="center">
 
-<!-- Premium Animated Header -->
+<!-- PREMIUM ANIMATED WAVE -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:080B18,25:312E81,50:4F46E5,75:0891B2,100:080B18&text=AJIM%20MUJAWAR&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=DATA%20SCIENTIST%20%7C%20AI%2FML%20ENGINEER%20%7C%20GENERATIVE%20AI&descSize=16&descAlignY=57&descAlign=50&descFontColor=FDE68A&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:080B18,30:312E81,65:4F46E5,100:0891B2&section=header&animation=twinkling"/>
+
+<!-- FLYING BIRDS + NAME -->
+
+<table align="center" border="0">
+<tr>
+<td align="center">
+<img src="./assets/flying_birds_gold.gif" width="110"/>
+</td>
+<td align="center">
+
+<h1>AJIM MUJAWAR</h1>
+
+<strong>DATA SCIENTIST | AI/ML ENGINEER</strong>
+
+<strong>GENERATIVE AI | AGENTIC AI</strong>
+
+</td>
+<td align="center">
+<img src="./assets/flying_birds_gold.gif" width="110"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<!-- Animated Professional Titles -->
+<!-- ANIMATED TEXT -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Building+Intelligent+AI+Solutions;Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+Agentic+AI;Turning+Ideas+Into+AI+Innovation"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/FOCUS-Artificial%20Intelligence-FACC15?style=for-the-badge&labelColor=111827"/>
-<img src="https://img.shields.io/badge/BUILDING-AI%20Solutions-06B6D4?style=for-the-badge&labelColor=111827"/>
-<img src="https://img.shields.io/badge/ALWAYS-Learning-8B5CF6?style=for-the-badge&labelColor=111827"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Building+Intelligent+AI+Solutions;Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+Agentic+AI;Turning+Ideas+Into+Innovation"/>
 
 <br/><br/>
 
-**✦ Exploring Innovation Through Artificial Intelligence ✦**
+<img src="https://img.shields.io/badge/FOCUS-Artificial%20Intelligence-FACC15?style=for-the-badge&labelColor=080B18"/>
+<img src="https://img.shields.io/badge/BUILDING-AI%20Solutions-06B6D4?style=for-the-badge&labelColor=080B18"/>
+<img src="https://img.shields.io/badge/ALWAYS-Learning-8B5CF6?style=for-the-badge&labelColor=080B18"/>
+
+<br/><br/>
+
+<strong>✦ Exploring Innovation Through Artificial Intelligence ✦</strong>
 
 </div>
 
