@@ -1,24 +1,18 @@
-```html
+```
 <div align="center">
 
-<!-- Luxury Animated Header -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,25:172554,50:31205B,75:075B63,100:080B18&height=230&section=header&text=AJIM%20MUJAWAR&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=DATA%20SCIENTIST%20%7C%20AI%2FML%20ENGINEER%20%7C%20GENERATIVE%20AI&descAlignY=60&descSize=16"/>
-
-<!-- Animated Typing Text -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=FFD700&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile!;Data+Scientist+%7C+AI%2FML+Engineer;Building+Intelligent+AI+Solutions;Generative+AI+%7C+Agentic+AI;Machine+Learning+%7C+Deep+Learning;Turning+Ideas+Into+Intelligent+Solutions" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:10172A,30:312E81,65:0E7490,100:10172A&text=AJIM%20MUJAWAR&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20SCIENTIST%20%7C%20AI%2FML%20ENGINEER%20%7C%20GENERATIVE%20AI&descSize=16&descAlignY=60&animation=fadeIn"/>
 
 <br/>
 
-<!-- Professional Tagline -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=F5D477&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile!;Data+Scientist+%7C+AI%2FML+Engineer;Generative+AI+%7C+Agentic+AI;Machine+Learning+%7C+Deep+Learning;Building+Intelligent+AI+Solutions"/>
 
-<h3>
-  <font color="#FFD700">Exploring Innovation Through Artificial Intelligence</font>
-</h3>
+<br/>
+
+**✦ Exploring Innovation Through Artificial Intelligence ✦**
 
 </div>
----
+```
 
 ## 👨‍💻 About Me
 
