@@ -1,10 +1,23 @@
+```html
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Ajim%20Mujawar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20Machine%20Learning%20%7C%20AI&descAlignY=58"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00CFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Machine+Learning;Building+Projects+Every+Week;Always+Learning+New+Things"/>
+<!-- Luxury Animated Header -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,25:172554,50:31205B,75:075B63,100:080B18&height=230&section=header&text=AJIM%20MUJAWAR&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=DATA%20SCIENTIST%20%7C%20AI%2FML%20ENGINEER%20%7C%20GENERATIVE%20AI&descAlignY=60&descSize=16"/>
+
+<!-- Animated Typing Text -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=FFD700&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile!;Data+Scientist+%7C+AI%2FML+Engineer;Building+Intelligent+AI+Solutions;Generative+AI+%7C+Agentic+AI;Machine+Learning+%7C+Deep+Learning;Turning+Ideas+Into+Intelligent+Solutions" />
+
+<br/>
+
+<!-- Professional Tagline -->
+
+<h3>
+  <font color="#FFD700">Exploring Innovation Through Artificial Intelligence</font>
+</h3>
 
 </div>
-
 ---
 
 ## 👨‍💻 About Me
