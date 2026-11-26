@@ -1,4 +1,4 @@
-```
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:10172A,30:312E81,65:0E7490,100:10172A&text=AJIM%20MUJAWAR&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20SCIENTIST%20%7C%20AI%2FML%20ENGINEER%20%7C%20GENERATIVE%20AI&descSize=16&descAlignY=60&animation=fadeIn"/>
