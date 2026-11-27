@@ -1,30 +1,30 @@
+
 <div align="center">
 
-<!-- PREMIUM DARK PINK LUXURY HEADER -->
+<!-- DARK LUXURY ANIMATED HEADER -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:9D174D,20:701A75,45:312E81,70:0E7490,100:080B18&text=AJIM%20MUJAWAR&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=DATA%20SCIENTIST%20%7C%20AI%2FML%20ENGINEER%20%7C%20GENERATIVE%20AI&descSize=16&descAlignY=57&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B001F,20:78003D,40:4C126F,65:172B75,85:082F49,100:050816&height=250&section=header&text=AJIM%20MUJAWAR&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=DATA%20SCIENTIST%20%7C%20AI%2FML%20ENGINEER%20%7C%20GENERATIVE%20AI&descSize=16&descAlignY=57&descAlign=50&descFontColor=FFFFFF&animation=twinkling"/>
 
 <br/>
 
-<!-- FLYING GOLDEN BIRDS -->
+<!-- BRIGHT CYAN ANIMATED TYPING -->
 
-<img src="./assets/flying_birds_gold.gif" width="100"/>
-
-<!-- ANIMATED TYPING -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=1000&color=67E8F9&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Building+Intelligent+AI+Solutions;Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+Agentic+AI;Turning+Ideas+Into+Innovation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile!;Building+Intelligent+AI+Solutions;Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+Agentic+AI;Turning+Ideas+Into+AI+Innovation"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/FOCUS-Artificial%20Intelligence-F9A8D4?style=for-the-badge&labelColor=1F1025"/>
-<img src="https://img.shields.io/badge/BUILDING-AI%20Solutions-67E8F9?style=for-the-badge&labelColor=111827"/>
-<img src="https://img.shields.io/badge/ALWAYS-Learning-C4B5FD?style=for-the-badge&labelColor=111827"/>
+<!-- DARK PROFESSIONAL BADGES -->
+
+<img src="https://img.shields.io/badge/FOCUS-Artificial%20Intelligence-D946EF?style=for-the-badge&labelColor=080B18"/>
+<img src="https://img.shields.io/badge/BUILDING-AI%20Solutions-0891B2?style=for-the-badge&labelColor=080B18"/>
+<img src="https://img.shields.io/badge/ALWAYS-Learning-6D28D9?style=for-the-badge&labelColor=080B18"/>
 
 <br/><br/>
 
 <strong>✦ Exploring Innovation Through Artificial Intelligence ✦</strong>
 
 </div>
+
 ## 👨‍💻 About Me
 
 <table>
