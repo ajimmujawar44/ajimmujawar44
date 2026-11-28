@@ -339,20 +339,34 @@ The Gemini-powered chatbot may return outdated answers to current-news and recen
 
 ---
 
+<!-- THANK YOU SECTION -->
+
 ## ⭐ Thanks for visiting my profile!
 
 <div align="center">
 
 <h3>
-💙 <i>"Passionate about solving real-world problems through data, AI, and continuous innovation."</i>
+  <i>"Guided by discipline, driven by knowledge, powered by innovation, and committed to creating meaningful impact."</i>
 </h3>
 
 <p>
-<b>— Ajim Mujawar</b>
+  <strong>— Ajim Mujawar</strong>
 </p>
 
-</div>
-```                                                    
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer"/>
+<br/>
+
+<!-- CONNECT & EXPLORE -->
+
+<img src="https://img.shields.io/badge/KEEP-LEARNING-9333EA?style=for-the-badge&labelColor=831843"/>
+<img src="https://img.shields.io/badge/KEEP-BUILDING-4F46E5?style=for-the-badge&labelColor=312E81"/>
+<img src="https://img.shields.io/badge/KEEP-INNOVATING-0891B2?style=for-the-badge&labelColor=164E63"/>
+
+<br/><br/>
+
+<strong>✨ Let's connect, collaborate and build something meaningful! ✨</strong>
 
 </div>
+
+<!-- MATCHING ANIMATED FOOTER -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:BE185D,25:9333EA,50:6D28D9,75:4F46E5,100:0891B2&height=120&section=footer&animation=twinkling"/>
