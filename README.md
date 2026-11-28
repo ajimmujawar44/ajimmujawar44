@@ -339,20 +339,29 @@ The Gemini-powered chatbot may return outdated answers to current-news and recen
 
 ---
 
-<!-- THANK YOU SECTION -->
-
-<div align="center">
-
 ## ⭐ Thanks for visiting my profile!
 
-</div>
-
-<!-- PREMIUM GRADIENT QUOTE FOOTER -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:BE185D,25:9333EA,55:6D28D9,80:4F46E5,100:0891B2&height=170&section=footer&text=Guided%20by%20discipline%2C%20driven%20by%20knowledge%2C%20powered%20by%20innovation%2C%20and%20committed%20to%20creating%20meaningful%20impact.&fontSize=17&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn"/>
-
 <div align="center">
 
-**— Ajim Mujawar**
+<table width="100%" bgcolor="#EDE5FF">
+<tr>
+<td align="center" style="padding: 22px 15px;">
+
+<h3>
+💙 <i>"Guided by discipline, driven by knowledge, powered by innovation, and committed to creating meaningful impact."</i>
+</h3>
+
+<p>
+<b>— Ajim Mujawar</b>
+</p>
+
+</td>
+</tr>
+</table>
 
 </div>
+
+<!-- MATCHING GRADIENT FOOTER -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:BE185D,25:9333EA,50:6D28D9,75:4F46E5,100:0891B2&height=100&section=footer"/>
+
