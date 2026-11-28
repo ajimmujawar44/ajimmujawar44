@@ -10,10 +10,12 @@
 
 <!-- PROFESSIONAL BADGES -->
 
-<p>
-<img src="https://img.shields.io/badge/FOCUS-Artificial%20Intelligence-9333EA?style=for-the-badge&labelColor=F3E8FF"/>
-<img src="https://img.shields.io/badge/BUILDING-AI%20Solutions-0891B2?style=for-the-badge&labelColor=E0F2FE"/>
-<img src="https://img.shields.io/badge/ALWAYS-Learning-DB2777?style=for-the-badge&labelColor=FCE7F3"/>
+<p align="center">
+
+<img src="https://img.shields.io/badge/USERS-21.5K%2B-C026D3?style=for-the-badge&logo=github&logoColor=white&labelColor=831843"/>
+
+<img src="https://img.shields.io/badge/CHAT-32%20ONLINE-0891B2?style=for-the-badge&logo=discord&logoColor=white&labelColor=4C1D95"/>
+
 </p>
 
 <strong>✦ Exploring Innovation Through Artificial Intelligence ✦</strong>
