@@ -343,9 +343,9 @@ The Gemini-powered chatbot may return outdated answers to current-news and recen
 
 <div align="center">
 
-<table width="100%" bgcolor="#EDE5FF">
+<table width="100%" bgcolor="#FFF0F5" border="0" cellpadding="18">
 <tr>
-<td align="center" style="padding: 22px 15px;">
+<td align="center">
 
 <h3>
 💙 <i>"Guided by discipline, driven by knowledge, powered by innovation, and committed to creating meaningful impact."</i>
@@ -359,9 +359,12 @@ The Gemini-powered chatbot may return outdated answers to current-news and recen
 </tr>
 </table>
 
+<br/>
+
 </div>
 
 <!-- MATCHING GRADIENT FOOTER -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:BE185D,25:9333EA,50:6D28D9,75:4F46E5,100:0891B2&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:BE185D,25:9333EA,50:6D28D9,75:4F46E5,100:0891B2&height=85&section=footer"/>
 
+</div>
