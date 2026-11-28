@@ -341,32 +341,18 @@ The Gemini-powered chatbot may return outdated answers to current-news and recen
 
 <!-- THANK YOU SECTION -->
 
-## ⭐ Thanks for visiting my profile!
-
 <div align="center">
 
-<h3>
-  <i>"Guided by discipline, driven by knowledge, powered by innovation, and committed to creating meaningful impact."</i>
-</h3>
-
-<p>
-  <strong>— Ajim Mujawar</strong>
-</p>
-
-<br/>
-
-<!-- CONNECT & EXPLORE -->
-
-<img src="https://img.shields.io/badge/KEEP-LEARNING-9333EA?style=for-the-badge&labelColor=831843"/>
-<img src="https://img.shields.io/badge/KEEP-BUILDING-4F46E5?style=for-the-badge&labelColor=312E81"/>
-<img src="https://img.shields.io/badge/KEEP-INNOVATING-0891B2?style=for-the-badge&labelColor=164E63"/>
-
-<br/><br/>
-
-<strong>✨ Let's connect, collaborate and build something meaningful! ✨</strong>
+## ⭐ Thanks for visiting my profile!
 
 </div>
 
-<!-- MATCHING ANIMATED FOOTER -->
+<!-- PREMIUM GRADIENT QUOTE FOOTER -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:BE185D,25:9333EA,50:6D28D9,75:4F46E5,100:0891B2&height=120&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:BE185D,25:9333EA,55:6D28D9,80:4F46E5,100:0891B2&height=170&section=footer&text=Guided%20by%20discipline%2C%20driven%20by%20knowledge%2C%20powered%20by%20innovation%2C%20and%20committed%20to%20creating%20meaningful%20impact.&fontSize=17&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn"/>
+
+<div align="center">
+
+**— Ajim Mujawar**
+
+</div>
